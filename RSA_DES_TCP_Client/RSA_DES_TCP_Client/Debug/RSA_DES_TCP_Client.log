@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\qichong49\documents\visual studio 2015\projects\rsa_des_tcp_client\rsa_des_tcp_client\rsa.h(58): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\qichong49\documents\visual studio 2015\projects\rsa_des_tcp_client\rsa_des_tcp_client\rsa.h(61): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\qichong49\documents\visual studio 2015\projects\rsa_des_tcp_client\rsa_des_tcp_client\rsa.h(63): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  RSA_DES_TCP_Client.vcxproj -> C:\Users\Qichong49\Documents\Visual Studio 2015\Projects\RSA_DES_TCP_Client\Debug\RSA_DES_TCP_Client.exe
+  RSA_DES_TCP_Client.vcxproj -> C:\Users\Qichong49\Documents\Visual Studio 2015\Projects\RSA_DES_TCP_Client\Debug\RSA_DES_TCP_Client.pdb (Partial PDB)

@@ -1,0 +1,11 @@
+﻿  des.cpp
+des.cpp(337): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+c:\users\qichong49\documents\visual studio 2015\projects\rsa_des_tcp_server\rsa_des_tcp_server\rsa.h(59): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\qichong49\documents\visual studio 2015\projects\rsa_des_tcp_server\rsa_des_tcp_server\rsa.h(62): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\qichong49\documents\visual studio 2015\projects\rsa_des_tcp_server\rsa_des_tcp_server\rsa.h(64): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码
+  All 313 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  RSA_DES_TCP_Server.vcxproj -> C:\Users\Qichong49\Documents\Visual Studio 2015\Projects\RSA_DES_TCP_Server\Release\RSA_DES_TCP_Server.exe
+  RSA_DES_TCP_Server.vcxproj -> C:\Users\Qichong49\Documents\Visual Studio 2015\Projects\RSA_DES_TCP_Server\Release\RSA_DES_TCP_Server.pdb (Full PDB)
